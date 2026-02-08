@@ -1,0 +1,9 @@
+langchain
+langchain-ollama
+langchain-chroma
+chromadb
+fastapi
+uvicorn
+streamlit
+pandas
+requests
