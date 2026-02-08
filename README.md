@@ -29,6 +29,4 @@ The chatbot runs completely **offline** using **Ollama** and provides real-time 
 
 ---
 
-## 📂 Project Structure
-
 
